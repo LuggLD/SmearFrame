@@ -9,6 +9,9 @@ This is an Unreal Engine 4 project containing a simple implementation of a "smea
 ## How do I use this?
 This effect consists of two parts: a blueprint component you add to an actor you want to be affected by the smear frame effect, and a material function that you add to its material.
 
+## Limitations
+As a quick and dirty proof of concept, this effect uses the actor's velocity to determine smear strength. As such, it does not work with animated skeletal meshes in the way you'd expect. Suggestions or pull requests are very welcome though! :)
+
 ![Smear Frame effect](http://broad-strokes.com/media/smear.gif "UE4 Smear Frame effect")
 
 ## Credits
