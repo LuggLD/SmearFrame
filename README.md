@@ -1,7 +1,7 @@
 # SmearFrame
 "Smear frame" material effect for Unreal Engine 4.12
 
-![Smear Frame effect](http://broad-strokes.com/media/smear3.gif "UE4 Smear Frame effect")
+![Smear Frame effect](http://i.giphy.com/l46CcnrPYQsJ0ejw4.gif "UE4 Smear Frame effect")
 
 ## What is this?
 This is an Unreal Engine 4 project containing a simple implementation of a "smear frame" effect, as recently popularized by the game Overwatch.
